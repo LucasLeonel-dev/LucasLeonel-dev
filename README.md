@@ -33,8 +33,3 @@ Bem-vindo(a) ao meu espaço de desenvolvimento! Por aqui você vai encontrar pro
   
 </p>
 
-### 📌 Em andamento
-
-- Estudando Estruturas de Dados e Algoritmos (Java e TypeScript) via LeetCode
-- Cursando o Bootcamp Itaú (DIO) de Java, Spring Boot e Inteligência Artificial
-- Construindo projetos práticos: rastreador de candidatura de estágio (Fastify/Prisma/React) e portfólio pessoal (React + Vite)
