@@ -18,7 +18,7 @@ Estudante de Engenharia de Software na PUC-Campinas, com foco em back-end. Gosto
 |---|---|---|
 | [**Application Tracker**](https://github.com/LucasLeonel-dev/Application-tracker) | Rastreador de candidaturas a vagas. API REST com autenticação JWT, validação com Zod, rate limiting, Swagger e testes com Vitest. | Node.js · Fastify · Prisma · PostgreSQL · Docker |
 | [**Relay**](https://github.com/Jp-mainieri/relay) | Agente de IA que acompanha por voz a passagem de turno em operações logísticas. Feito em 4 h no hackathon da AI Tinkerers SP (co-patrocínio OpenAI). Minha parte: dashboard em tempo real, Slack e alertas por voz. | Next.js · WebSocket · OpenAI |
-| **Mescla Invest** | Plataforma para investir em startups universitárias, um dos projetos de destaque da faculdade, apresentado ao Mescla (hub de inovação da PUC-Campinas). Fui o responsável pelo banco de dados e pela autenticação com 2FA. | Firebase · Firestore · Cloud Functions · TypeScript |
+| [**Mescla Invest**](https://github.com/GabrielHP2/ES-PI3-2026-T2-G04) | Plataforma para investir em startups universitárias, um dos projetos de destaque da faculdade, apresentado ao Mescla (hub de inovação da PUC-Campinas). Fui o responsável pelo banco de dados e pela autenticação com 2FA. | Firebase · Firestore · Cloud Functions · TypeScript |
 
 ### `~/stack`
 
