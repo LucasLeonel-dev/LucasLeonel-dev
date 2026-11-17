@@ -1,35 +1,54 @@
-<h1 align="left">Lucas Leonel | Estudante de Engenharia de Software </h1>
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: Lucas Leonel, desenvolvedor back-end. Engenharia de Software na PUC-Campinas. Stack: Java, TypeScript, Node.js, PostgreSQL, Docker e Prisma." width="100%">
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-leonel-8273993b6/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:leonel.lucas.eng@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/lucasleonel-dev/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/lucas-leonel-8273993b6/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"></a>
+  <a href="mailto:leonel.lucas.eng@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=3DDC97" alt="Email"></a>
+  <a href="https://leetcode.com/u/lucasleonel-dev/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
+  <a href="https://portifolio-sigma-ten-49.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
 </p>
 
----
+### `~/sobre`
 
-### Hello World 👋
+Estudante de Engenharia de Software na PUC-Campinas, com foco em back-end. Gosto de construir APIs, integrações e modelos de dados, a parte que faz um produto funcionar por trás da tela. Hoje trabalho com TypeScript e Node.js (Fastify, Prisma), PostgreSQL e Docker, e estou me aprofundando em Java e Spring Boot. Uso IA generativa no dia a dia do desenvolvimento (Claude Code, Codex).
 
-Bem-vindo(a) ao meu espaço de desenvolvimento! Por aqui você vai encontrar projetos de estudo, exercícios de estruturas de dados e algoritmos, e protótipos enquanto avanço na trilha de Backend.
+### `~/projetos`
 
-- **Estudante de Engenharia de Software** | 4º período @**PUC Campinas**
-- **Buscando** | Estágio em desenvolvimento Backend ou Full-Stack
-- **Skills** | Lógica de Programação, Estruturas de Dados, Resolução de Problemas, Comunicação e Aprendizado Contínuo
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Application Tracker**](https://github.com/LucasLeonel-dev/Application-tracker) | Rastreador de candidaturas a vagas. API REST com autenticação JWT, validação com Zod, rate limiting, Swagger e testes com Vitest. | Node.js · Fastify · Prisma · PostgreSQL · Docker |
+| [**Relay**](https://github.com/Jp-mainieri/relay) | Agente de IA que acompanha por voz a passagem de turno em operações logísticas. Feito em 4 h no hackathon da AI Tinkerers SP (co-patrocínio OpenAI). Minha parte: dashboard em tempo real, Slack e alertas por voz. | Next.js · WebSocket · OpenAI |
+| [**Guarda-Roupa Virtual**](https://github.com/LucasLeonel-dev/ClothesApp) | PWA para montar looks. Schema PostgreSQL/Supabase com migrations, Row Level Security, triggers e 33 testes em SQL. | React · TypeScript · PostgreSQL · Supabase |
+| **Mescla Invest** | Plataforma para investir em startups universitárias, um dos projetos de destaque da faculdade, apresentado ao Mescla (hub de inovação da PUC-Campinas). Fui o responsável pelo banco de dados e pela autenticação com 2FA. | Firebase · Firestore · Cloud Functions · TypeScript |
+| [**Portfólio**](https://github.com/LucasLeonel-dev/Portifolio) | Site pessoal com animações e deploy contínuo. | React · Vite · Tailwind · GSAP |
 
-### 🛠️ Main Stack:
+### `~/stack`
 
 <p align="left">
-  
-  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/PRISMA-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  
+  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-161B22?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Node.js-161B22?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Fastify-161B22?style=for-the-badge&logo=fastify&logoColor=white" alt="Fastify">
+  <img src="https://img.shields.io/badge/Prisma-161B22?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
+  <img src="https://img.shields.io/badge/PostgreSQL-161B22?style=for-the-badge&logo=postgresql&logoColor=58A6FF" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-161B22?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Firebase-161B22?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase">
+  <img src="https://img.shields.io/badge/React-161B22?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-161B22?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Git-161B22?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
 </p>
 
+### `~/certificados`
+
+```console
+lucas@dev:~$ ls certificados/
+anthropic/   ai-fluency-framework-foundations   claude-code-in-action   claude-code-101
+ibm/         ia-generativa-para-desenvolvimento   classificando-dados-ibm-granite
+six-sigma/   white-belt
+```
+
+```console
+lucas@dev:~$ echo "obrigado pela visita!"
+obrigado pela visita!
+```

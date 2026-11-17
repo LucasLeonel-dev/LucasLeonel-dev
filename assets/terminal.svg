@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="330" viewBox="0 0 860 330" role="img" aria-label="Terminal: whoami — Lucas Leonel, desenvolvedor back-end. Engenharia de Software na PUC-Campinas. Stack: Java, TypeScript, Node.js, PostgreSQL, Docker e Prisma.">
+  <style>
+    .mono{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:16px}
+    .txt{fill:#C9D1D9}
+    .mut{fill:#8B949E}
+    .acc{fill:#3DDC97}
+    .blu{fill:#58A6FF}
+    .show{animation:show .01s linear both}
+    .type{animation-timing-function:steps(var(--n));animation-name:type;animation-fill-mode:both}
+    .cur{animation:show .01s linear both, blink 1s step-end 4.9s infinite}
+    @keyframes show{from{opacity:0}to{opacity:1}}
+    @keyframes type{from{transform:translateX(0)}to{transform:translateX(var(--d))}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion: reduce){*{animation:none!important}}
+  </style>
+
+  <rect x="0.5" y="0.5" width="859" height="329" rx="12" fill="#0D1117" stroke="#30363D"/>
+  <path d="M12.5 0.5h835a12 12 0 0 1 12 12v31.5H0.5V12.5a12 12 0 0 1 12-12z" fill="#161B22"/>
+  <line x1="0.5" y1="44" x2="859.5" y2="44" stroke="#30363D"/>
+  <circle cx="24" cy="22" r="6" fill="#FF5F57"/>
+  <circle cx="44" cy="22" r="6" fill="#FEBC2E"/>
+  <circle cx="64" cy="22" r="6" fill="#28C840"/>
+  <text x="430" y="27" text-anchor="middle" class="mono mut" style="font-size:13px">lucas@dev: ~</text>
+
+  <g class="mono" xml:space="preserve">
+    <g class="show" style="animation-delay:.4s">
+      <text x="28" y="84"><tspan class="acc">lucas@dev</tspan><tspan class="mut">:</tspan><tspan class="blu">~</tspan><tspan class="mut">$ </tspan><tspan class="txt">whoami</tspan></text>
+      <rect x="142" y="68" width="320" height="22" fill="#0D1117" class="type" style="--n:6;--d:69px;animation-duration:.6s;animation-delay:.5s"/>
+    </g>
+    <text x="28" y="110" class="txt show" style="animation-delay:1.3s">Lucas Leonel — desenvolvedor back-end</text>
+
+    <g class="show" style="animation-delay:1.8s">
+      <text x="28" y="148"><tspan class="acc">lucas@dev</tspan><tspan class="mut">:</tspan><tspan class="blu">~</tspan><tspan class="mut">$ </tspan><tspan class="txt">cat sobre.txt</tspan></text>
+      <rect x="142" y="132" width="320" height="22" fill="#0D1117" class="type" style="--n:13;--d:136px;animation-duration:1s;animation-delay:1.9s"/>
+    </g>
+    <text x="28" y="174" class="txt show" style="animation-delay:3s">Engenharia de Software @ PUC-Campinas</text>
+    <text x="28" y="200" class="txt show" style="animation-delay:3.1s">APIs, integrações e modelagem de dados</text>
+
+    <g class="show" style="animation-delay:3.5s">
+      <text x="28" y="238"><tspan class="acc">lucas@dev</tspan><tspan class="mut">:</tspan><tspan class="blu">~</tspan><tspan class="mut">$ </tspan><tspan class="txt">ls stack/</tspan></text>
+      <rect x="142" y="222" width="320" height="22" fill="#0D1117" class="type" style="--n:9;--d:97px;animation-duration:.7s;animation-delay:3.6s"/>
+    </g>
+    <text x="28" y="264" class="show" style="animation-delay:4.4s"><tspan class="blu">java</tspan><tspan class="txt">&#160;&#160;</tspan><tspan class="blu">typescript</tspan><tspan class="txt">&#160;&#160;</tspan><tspan class="blu">node.js</tspan><tspan class="txt">&#160;&#160;</tspan><tspan class="blu">postgresql</tspan><tspan class="txt">&#160;&#160;</tspan><tspan class="blu">docker</tspan><tspan class="txt">&#160;&#160;</tspan><tspan class="blu">prisma</tspan></text>
+
+    <g class="show" style="animation-delay:4.9s">
+      <text x="28" y="302"><tspan class="acc">lucas@dev</tspan><tspan class="mut">:</tspan><tspan class="blu">~</tspan><tspan class="mut">$ </tspan></text>
+    </g>
+    <rect x="154" y="288" width="10" height="19" fill="#3DDC97" class="cur" style="animation-delay:4.9s"/>
+  </g>
+</svg>
