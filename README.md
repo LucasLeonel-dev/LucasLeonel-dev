@@ -6,7 +6,6 @@
   <a href="https://www.linkedin.com/in/lucas-leonel-8273993b6/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"></a>
   <a href="mailto:leonel.lucas.eng@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=3DDC97" alt="Email"></a>
   <a href="https://leetcode.com/u/lucasleonel-dev/"><img src="https://img.shields.io/badge/LeetCode-161B22?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
-  <a href="https://portifolio-sigma-ten-49.vercel.app"><img src="https://img.shields.io/badge/Portf%C3%B3lio-161B22?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio"></a>
 </p>
 
 ### `~/sobre`
@@ -20,7 +19,6 @@ Estudante de Engenharia de Software na PUC-Campinas, com foco em back-end. Gosto
 | [**Application Tracker**](https://github.com/LucasLeonel-dev/Application-tracker) | Rastreador de candidaturas a vagas. API REST com autenticação JWT, validação com Zod, rate limiting, Swagger e testes com Vitest. | Node.js · Fastify · Prisma · PostgreSQL · Docker |
 | [**Relay**](https://github.com/Jp-mainieri/relay) | Agente de IA que acompanha por voz a passagem de turno em operações logísticas. Feito em 4 h no hackathon da AI Tinkerers SP (co-patrocínio OpenAI). Minha parte: dashboard em tempo real, Slack e alertas por voz. | Next.js · WebSocket · OpenAI |
 | **Mescla Invest** | Plataforma para investir em startups universitárias, um dos projetos de destaque da faculdade, apresentado ao Mescla (hub de inovação da PUC-Campinas). Fui o responsável pelo banco de dados e pela autenticação com 2FA. | Firebase · Firestore · Cloud Functions · TypeScript |
-| [**Portfólio**](https://github.com/LucasLeonel-dev/Portifolio) | Site pessoal com animações e deploy contínuo. | React · Vite · Tailwind · GSAP |
 
 ### `~/stack`
 
